@@ -1,1 +1,2 @@
 # Online-Behavioral-Modeling
+This Python package enables the online discovery of behavioral patterns in trial-by-trial experiments. In trial-by-trial experiments, a participant (human/animal) is exposed to a series of stimuli and is expected to respond. The behavioral pattern is defined as the quantification of contributions of the stimulus features to the prediction of the response, taking into account the effect from prior trials.    
