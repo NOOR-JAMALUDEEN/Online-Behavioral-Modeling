@@ -11,3 +11,8 @@ requires-python = ">=3.9"
 authors = [{ name = "Noor Jamaludeen" }]
 license = { text = "Apache-2.0" }
 classifiers = ["License :: OSI Approved :: Apache Software License"]
+[tool.setuptools]
+include-package-data = true
+
+[tool.setuptools.package-data]
+"*" = ["LICENSE", "NOTICE"]
