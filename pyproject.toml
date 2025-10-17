@@ -9,6 +9,5 @@ description = "Tools for online behavioral modeling"
 readme = "README.md"
 requires-python = ">=3.9"
 authors = [{ name = "Noor Jamaludeen" }]
-
-license = { text = "Proprietary" }        # if you prefer no open-source license
-
+license = { text = "Apache-2.0" }
+classifiers = ["License :: OSI Approved :: Apache Software License"]
