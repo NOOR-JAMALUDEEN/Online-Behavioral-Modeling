@@ -1,3 +1,8 @@
+[![License: Apache-2.0](https://img.shields.io/badge/License-Apache--2.0-lightgrey.svg)](https://spdx.org/licenses/Apache-2.0.html)
+
+This project is licensed under the **Apache License 2.0**.  
+See `LICENSE` and `NOTICE` for details. © 2025 Noor Jamaludeen
+
 # Online-Behavioral-Modeling
 This Python package enables the online discovery of behavioral patterns in trial-by-trial experiments. In trial-by-trial experiments, a participant (human/animal) is exposed to a series of stimuli and is expected to respond. The behavioral pattern is defined as the quantification of the contributions of stimulus features to the prediction of the response, taking into account the effects from prior trials.  
 
